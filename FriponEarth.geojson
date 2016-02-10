@@ -9,8 +9,25 @@
          "properties": {"Name":"<a href='http://www.picdumidi.eu/fripon/makes/ImageLastFTP_AllSKY.jpg' target='_blank'>Observatoire des Makes</a>"}       
           
       },   
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.1,44.41]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ROIF01-1024x768.jpg' target='_blank'>Bucureşti</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.73,42.02]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ESCA01-1024x768.jpg' target='_blank'>Montsec</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [6.91,44.68]},
+          "properties": {"Name":"<a href='http://www.picdumidi.eu/fripon/saintveran/ImageLastFTP_AllSKY.jpg' target='_blank'Saint Veran</a>"}
+      },
+       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [16.36,48.20]},
+          "properties": {"Name":"<a href='http://ceres.geol.u-psud.fr/fripon/IMG/jpg/stations/RT_ATWI01-1024x768.jpg' target='_blank'>Wien</a>"}
+      },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-68.17,-22.95]},
           "properties": {"Name":"<a href='http://www.spaceobs.com/lib/meteo/ImageLastFTP_AllSKY.jpg' target='_blank'>San Pedro de Atacama</a>"} 
       }
+      
 ]}
